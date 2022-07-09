@@ -2,14 +2,14 @@
 
 
 # JavaScript Codecademy Projects #
-This repository contains a collection of projects and Code Challenges I've completed using JavaScript on Codecademy's Frontend Engineer Career Path. 
+This repository contains a collection of projects and Code Challenges I've completed using JavaScript, React, and Redux on Codecademy's Frontend Engineer Career Path. 
 
 This repo consists of a mix of guided and solo projects. Project objectives are commented at the top of each file.  This repo is in progress and each project will be added as it's completed.
 
 ## Projects ##
 ### JavaScript Syntax Part 1 ###
- - [ ] Kelvin Weather (intro)
- - [ ] Dog Years (intro)
+ - [x] [Kelvin Weather (intro)](https://github.com/emmaclarem/javascript-codecademy-projects/tree/main/Kelvin%20Weather)
+ - [x] [Dog Years (intro)](https://github.com/emmaclarem/javascript-codecademy-projects/tree/main/Dog%20Years)
  - [ ] Magic Eight Ball (conditionals)
  - [ ] Race Day (conditionals)
  - [ ] Rock, Paper, Scissors (functions)
