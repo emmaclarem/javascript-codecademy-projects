@@ -8,10 +8,10 @@ This repo consists of a mix of guided and solo projects. Project objectives are 
 
 ## Projects ##
 ### JavaScript Syntax Part 1 ###
- - [x] [Kelvin Weather (intro)](https://github.com/emmaclarem/javascript-codecademy-projects/tree/main/Kelvin%20Weather)
- - [x] [Dog Years (intro)](https://github.com/emmaclarem/javascript-codecademy-projects/tree/main/Dog%20Years)
- - [ ] Magic Eight Ball (conditionals)
- - [ ] Race Day (conditionals)
+ - [x] [Kelvin Weather (intro)](https://github.com/emmaclarem/javascript-codecademy-projects/tree/main/JavaScript%20Syntax%20Part%201/Kelvin%20Weather)
+ - [x] [Dog Years (intro)](https://github.com/emmaclarem/javascript-codecademy-projects/tree/main/JavaScript%20Syntax%20Part%201/Dog%20Years)
+ - [x] [Magic Eight Ball (conditionals)](https://github.com/emmaclarem/javascript-codecademy-projects/tree/main/JavaScript%20Syntax%20Part%201/Magic%20Eight%20Ball)
+ - [x] [Race Day (conditionals)](https://github.com/emmaclarem/javascript-codecademy-projects/tree/main/JavaScript%20Syntax%20Part%201/Race%20Day)
  - [ ] Rock, Paper, Scissors (functions)
  - [ ] Sleep Debt Calculator (functions)
  - [ ] Training Days (scope)
