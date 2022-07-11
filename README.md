@@ -12,8 +12,8 @@ This repo consists of a mix of guided and solo projects. Project objectives are 
  - [x] [Dog Years (intro)](https://github.com/emmaclarem/javascript-codecademy-projects/tree/main/JavaScript%20Syntax%20Part%201/Dog%20Years)
  - [x] [Magic Eight Ball (conditionals)](https://github.com/emmaclarem/javascript-codecademy-projects/tree/main/JavaScript%20Syntax%20Part%201/Magic%20Eight%20Ball)
  - [x] [Race Day (conditionals)](https://github.com/emmaclarem/javascript-codecademy-projects/tree/main/JavaScript%20Syntax%20Part%201/Race%20Day)
- - [ ] Rock, Paper, Scissors (functions)
- - [ ] Sleep Debt Calculator (functions)
+ - [x] [Rock, Paper, Scissors (functions)](https://github.com/emmaclarem/javascript-codecademy-projects/tree/main/JavaScript%20Syntax%20Part%201/Rock%2C%20Paper%2C%20Scissors)
+ - [x] [Sleep Debt Calculator (functions)](https://github.com/emmaclarem/javascript-codecademy-projects/tree/main/JavaScript%20Syntax%20Part%201/Sleep%20Debt%20Calculator)
  - [ ] Training Days (scope)
  - [ ] Code Challenges: JavaScript Fundamentals
  - [ ] Challenge Project: Number Guesser
