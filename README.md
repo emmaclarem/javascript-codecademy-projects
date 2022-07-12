@@ -7,7 +7,7 @@ This repository contains a collection of projects and Code Challenges I've compl
 This repo consists of a mix of guided and solo projects. Project objectives are commented at the top of each file.  This repo is in progress and each project will be added as it's completed.
 
 ## Code Challenges
- - [ ] JavaScript Fundamentals
+ - [x] [JavaScript Fundamentals](https://github.com/emmaclarem/javascript-codecademy-projects/tree/main/JS%20Fundamentals%20Code%20Challenges)
  - [ ] Intermediate JavaScript
  
 ## Projects
