@@ -19,7 +19,7 @@ This repo consists of a mix of guided and solo projects. Project objectives are 
  - [x] [Rock, Paper, Scissors (functions)](https://github.com/emmaclarem/javascript-codecademy-projects/tree/main/JavaScript%20Syntax%20Part%201/Rock%2C%20Paper%2C%20Scissors)
  - [x] [Sleep Debt Calculator (functions)](https://github.com/emmaclarem/javascript-codecademy-projects/tree/main/JavaScript%20Syntax%20Part%201/Sleep%20Debt%20Calculator)
  - [x] [Training Days (scope)](https://github.com/emmaclarem/javascript-codecademy-projects/tree/main/JavaScript%20Syntax%20Part%201/Training%20Days)
- - [ ] Challenge Project: Number Guesser
+ - [x] [Challenge Project: Number Guesser](https://github.com/emmaclarem/javascript-codecademy-projects/tree/main/JavaScript%20Syntax%20Part%201/Number%20Guesser)
  
 ### JavaScript Syntax Part 2
  - [ ] Secret Message (arrays)
