@@ -22,8 +22,8 @@ This repo consists of a mix of guided and solo projects. Project objectives are 
  - [x] [Challenge Project: Number Guesser](https://github.com/emmaclarem/javascript-codecademy-projects/tree/main/JavaScript%20Syntax%20Part%201/Number%20Guesser)
  
 ### JavaScript Syntax Part 2
- - [ ] Secret Message (arrays)
- - [ ] Whale Talk (loops)
+ - [x] [Secret Message (arrays)](https://github.com/emmaclarem/javascript-codecademy-projects/tree/main/JavaScript%20Syntax%20Part%202/Secret%20Message)
+ - [x] [Whale Talk (loops)](https://github.com/emmaclarem/javascript-codecademy-projects/tree/main/JavaScript%20Syntax%20Part%202/Whale%20Talk)
  - [ ] Meal Maker (objects)
  - [ ] Team Stats (objects)
  - [ ] Mini Linter (iterators)
