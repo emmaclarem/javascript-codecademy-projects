@@ -24,6 +24,7 @@ This repo consists of a mix of guided and solo projects. Project objectives are 
 ### JavaScript Syntax Part 2
  - [x] [Secret Message (arrays)](https://github.com/emmaclarem/javascript-codecademy-projects/tree/main/JavaScript%20Syntax%20Part%202/Secret%20Message)
  - [x] [Whale Talk (loops)](https://github.com/emmaclarem/javascript-codecademy-projects/tree/main/JavaScript%20Syntax%20Part%202/Whale%20Talk)
+ - [x] [Grammar Checker (higher-order functions & iterators)] (https://github.com/emmaclarem/javascript-codecademy-projects/tree/main/JavaScript%20Syntax%20Part%202/Grammar%20Checker)
  - [ ] Meal Maker (objects)
  - [ ] Team Stats (objects)
  - [ ] Mini Linter (iterators)
