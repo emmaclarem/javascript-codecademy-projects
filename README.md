@@ -8,7 +8,7 @@ This repo consists of a mix of guided and solo projects. Project objectives are 
 
 ## Code Challenges
  - [x] [JavaScript Fundamentals](https://github.com/emmaclarem/javascript-codecademy-projects/tree/main/JS%20Fundamentals%20Code%20Challenges)
- - [ ] Intermediate JavaScript
+ - [x] [Intermediate JavaScript](https://github.com/emmaclarem/javascript-codecademy-projects/tree/main/JS%20Intermediate%20Code%20Challenges)
  
 ## Projects
 ### JavaScript Syntax Part 1
@@ -25,9 +25,8 @@ This repo consists of a mix of guided and solo projects. Project objectives are 
  - [x] [Secret Message (arrays)](https://github.com/emmaclarem/javascript-codecademy-projects/tree/main/JavaScript%20Syntax%20Part%202/Secret%20Message)
  - [x] [Whale Talk (loops)](https://github.com/emmaclarem/javascript-codecademy-projects/tree/main/JavaScript%20Syntax%20Part%202/Whale%20Talk)
  - [x] [Grammar Checker (higher-order functions & iterators)](https://github.com/emmaclarem/javascript-codecademy-projects/tree/main/JavaScript%20Syntax%20Part%202/Grammar%20Checker)
- - [ ] Meal Maker (objects)
- - [ ] Team Stats (objects)
- - [ ] Mini Linter (iterators)
+ - [x] [Meal Maker (objects)](https://github.com/emmaclarem/javascript-codecademy-projects/tree/main/JavaScript%20Syntax%20Part%202/Meal%20Maker)
+ - [x] [Team Stats (objects)](https://github.com/emmaclarem/javascript-codecademy-projects/tree/main/JavaScript%20Syntax%20Part%202/Team%20Stats)
  - [ ] Challenge Project: Credit Card Checker
  - [ ] Challenge Project: Mysterious Organism
 
