@@ -8,8 +8,6 @@
 - Add two methods to your object: .bark() which returns ‘ruff! ruff!’ and .eatTooManyTreats() which should increment the weight property by 1
 */
 
-// Write your code here:
-
 const dogFactory = (name, breed, weight) => {
     return {
         _name: name,
