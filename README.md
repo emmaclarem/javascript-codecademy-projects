@@ -27,9 +27,9 @@ This repo consists of a mix of guided and solo projects. Project objectives are 
  - [x] [Grammar Checker (higher-order functions & iterators)](https://github.com/emmaclarem/javascript-codecademy-projects/tree/main/JavaScript%20Syntax%20Part%202/Grammar%20Checker)
  - [x] [Meal Maker (objects)](https://github.com/emmaclarem/javascript-codecademy-projects/tree/main/JavaScript%20Syntax%20Part%202/Meal%20Maker)
  - [x] [Team Stats (objects)](https://github.com/emmaclarem/javascript-codecademy-projects/tree/main/JavaScript%20Syntax%20Part%202/Team%20Stats)
- - [ ] Challenge Project: Credit Card Checker
+ - [x] [Challenge Project: Credit Card Checker](https://github.com/emmaclarem/javascript-codecademy-projects/tree/main/JavaScript%20Syntax%20Part%202/Credit%20Card%20Checker)
  - [ ] Challenge Project: Mysterious Organism
- - [ ] Piano Keys (DOM events)
+ - [x] [Piano Keys (DOM events)](https://github.com/emmaclarem/javascript-codecademy-projects/tree/main/JavaScript%20Syntax%20Part%202/Piano%20Keys)
 
 ### JavaScript Syntax Part 3 
  - [ ] Build a Library (classes)
