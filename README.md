@@ -33,7 +33,7 @@ This repo consists of a mix of guided and solo projects. Project objectives are 
 
 ### JavaScript Syntax Part 3 
  - [x] [Build a Library (classes)](https://github.com/emmaclarem/javascript-codecademy-projects/tree/main/JavaScript%20Syntax%20Part%203/Build%20a%20Library)
- - [ ] School Catalogue (classes)
+ - [x] [School Catalogue (classes)](https://github.com/emmaclarem/javascript-codecademy-projects/tree/main/JavaScript%20Syntax%20Part%203/School%20Catalogue)
  - [ ] WorkAround Explorer
  - [ ] Challenge Project: Find Your Hat
  
