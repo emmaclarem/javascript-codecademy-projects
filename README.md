@@ -32,7 +32,7 @@ This repo consists of a mix of guided and solo projects. Project objectives are 
  - [x] [Piano Keys (DOM events)](https://github.com/emmaclarem/javascript-codecademy-projects/tree/main/JavaScript%20Syntax%20Part%202/Piano%20Keys)
 
 ### JavaScript Syntax Part 3 
- - [ ] Build a Library (classes)
+ - [x] [Build a Library (classes)](https://github.com/emmaclarem/javascript-codecademy-projects/tree/main/JavaScript%20Syntax%20Part%203/Build%20a%20Library)
  - [ ] School Catalogue (classes)
  - [ ] WorkAround Explorer
  - [ ] Challenge Project: Find Your Hat
